@@ -1,7 +1,10 @@
 {
-  "dependencies": {
-    "express": "^4.17.3",
-    "hbs": "^4.2.0",
-    "request": "^2.88.2"
-  }
+    "scripts": {
+        "start": "node src/app.js"
+    },
+    "dependencies": {
+        "express": "^4.17.3",
+        "hbs": "^4.2.0",
+        "request": "^2.88.2"
+    }
 }
